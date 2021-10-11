@@ -1,0 +1,32 @@
+body {
+  background-image: url("../img/kirbybackground.jpg");
+  background-size: cover;
+}
+
+body {
+  display: block;
+  margin: 8px;
+}
+
+body {
+  font-family: Arial, "serif";
+  padding: 18px;
+  font-size: 150%;
+  color: #fff;
+}
+div#content {
+  padding: 30px;
+  border: dotted 10px white;
+  height: 115vh;
+}
+
+h1, h2 {
+  font-family: "special elite", cursive;
+  font-weight: 800;
+}
+
+p{
+  font-family: "garamond", serif;
+  color: red;
+  border: dashed 2px white;
+}

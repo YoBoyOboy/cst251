@@ -1,0 +1,29 @@
+body{
+  background-image: url("../img/mimikyu.png");
+  background-size: cover;
+}
+body{
+  display: block;
+  margin: 10
+}
+body{
+  font-family: ComicSans, "Times New Roman";
+  padding: 20px;
+  font-size: 200%;
+  color: Red;
+}
+div#content {
+  padding: 30px;
+  border: dashed 40px RoyalBlue;
+  height 115vh;
+}
+h1{
+    font-family: cursive;
+    text-decoration: underline;
+    letter-spacing: 20px;
+}
+h2{
+  font-family: sans-serif;
+  text-decoration: underline;
+  letter-spacing: 5px;
+}
