@@ -1,0 +1,39 @@
+body{
+  background-image: url("../img/swhalloween2.jpg");
+  background-size: cover;
+}
+body{
+  display: block;
+  margin: 10
+}
+body{
+  font-family: ComicSans, "Times New Roman";
+  padding: 20px;
+  font-size: 200%;
+  color: Orange;
+}
+div#content {
+  padding: 30px;
+  border: dashed 10px Red;
+  height 115vh;
+}
+div.sidebar {
+  height: auto;
+  width: 300px;
+  position: sticky;
+  float: right;
+  top: 30px;
+  overflow-x: hidden;
+  padding-top: 20px;
+  display: inline-block;
+}
+h1{
+    font-family: cursive;
+    text-decoration: underline;
+    letter-spacing: 20px;
+}
+h2{
+  font-family: sans-serif;
+  text-decoration: underline;
+  letter-spacing: 5px;
+}
